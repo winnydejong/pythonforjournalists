@@ -6,9 +6,9 @@
 * [About the course](#about-the-course)
 * [1 Getting started](#getting-started)
 * [Hands-on Modules](#hands-on-modules)
- * [2 Clean data](#clean-data)
- * [3 Analyse data](#analyse-data)
- * [4 Scrape data](#scrape-data)
+    * [2 Clean data](#clean-data)
+    * [3 Analyse data](#analyse-data)
+    * [4 Scrape data](#scrape-data)
 * [Learning More, Reference And Tools](#learning-more-reference-and-tools)
 * [About Us](#about-us)
 
