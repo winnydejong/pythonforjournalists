@@ -6,9 +6,9 @@
 * [About the course](#about-the-course)
 * [1 Getting started](#getting-started)
 * [Hands-on Modules](#hands-on-modules)
-* [2 Clean data](#clean-data)
-* [3 Analyse data](#analyse-data)
-* [4 Scrape data](#scrape-data)
+ * [2 Clean data](#clean-data)
+ * [3 Analyse data](#analyse-data)
+ * [4 Scrape data](#scrape-data)
 * [Learning More, Reference And Tools](#learning-more-reference-and-tools)
 * [About Us](#about-us)
 
@@ -27,11 +27,11 @@ This Python for Journalists course is meant for those who dabbled in Python, but
 Getting Started
 ===============
 
-## The Set Up Module
+## 1 Set Up
 
 This module revolves around installing the right tools on your laptop. To follow along in the coming modules, you'll need Python 3, and several Python libraries like Requests, Pandas and BeautifulSoup installed. Jupyter Notebooks come highly recommended. It's recommended that you install all of this software in one go, using the [Anaconda distribution](https://anaconda.org/). This first module does not include a Jupyter Notebook.
 
-## On your computer:
+### On your computer:
 
 * Install the [Anaconda distribution](https://www.anaconda.com/download/#macos) to install **Python 3**, libraries Requests, Pandas, and BeautifulSoup, and Jupyter Notebooks all at once on your computer. 
   * Note: choose for the Anaconda installation that includes **Python 3**.
@@ -39,19 +39,16 @@ This module revolves around installing the right tools on your laptop. To follow
 Hands-on Modules
 ==========
 
-Clean data
-==========
+## 2 Clean data
 
 In this second module we'll show you how to into your Python conda environment; how to start a Jupyter Notebook. Once that's out of the way, you'll learn how to import a CSV-file into your Jupyter Notebook, to get ready for some data cleaning. Among other things you'll learn how to search and replace values inside a column; how to change the datatype of a column; and how to extract data from a column to populate a new column. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'clean data'.
 
-Analyse data
-==========
+## Analyse data
 
 In this thirth module, you'll learn how to analyse data using the Pandas library. You'll learn how to explore your dataset, looking at summary statistics - count, median, mean, percentiles, standard deviation etc. - for each column. Next we'll look into how to sort, filter, sum and count values in columns. Finally you'll learn how to group data, creating (for those familiar with Excel) pivot tables, using the Pandas library. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'analyse data'. 
 
 
-Scrape data
-==========
+## Scrape data
 
 The final module revolves around scraping data using both the Requests and the BeautifulSoup libraries. Though in practice you'll likely first want to scrape data, to later clean and analyse those numbers, this module is last for training purposes. The modules on cleaning and analysing data introduced you to Python, Pandas and Jupyter Notebooks. Paving the way for some basic webscraping, including a for loop to collect data as efficient as possible. Finishing this module you should be able to write some basic webscrapers to collect data from the internet. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'scrape data'. 
 
@@ -67,9 +64,9 @@ Learning More...
 About Us
 ========
 
-**About Learno**  
+## About LEARNO.NET 
 LEARNO.NET offers convenient, accesible and premium-quality online learning for media professionals. All courses are free - as in free beer - and accessible worldwide. LEARNO.NET is an initiative of the European Journalism Centre (EJC). The EJC is a non-profit international foundation with the mission to improve and strengthen journalism and the news media in the interest of a functioning democratic public sphere. The European Journalism Centre would like to thank the Dutch Ministry of Education, Culture and Science, Google, and the World Bank, for making LEARNO.NET possible.
 
-**About Winny**   
-*(An official sounding bio...)*  
+## About Winny de Jong
+*(An official sounding bio... ;) )*  
 Winny works as a data journalist for the Dutch national broadcast NOS. There she interviews data sets instead of people in order to find news before it is news. Next to that, she likes to pay it forward by blogging, talking and teaching about the importance of data literacy, how to develop ideas, and her data journalistic workflow. She has presented before for organizations like TEDx, Brussels News Summit, and several journalism colleges in both Belgium and The Netherlands. Winny grew up in Rotterdam, but now lives in Amersfoort, The Netherlands. Visit her online at [datajournalistiek.nl/en](https://datajournalistiek.nl/en) or subscribe to her [irregular data journalism newsletter](https://datajournalistiek.nl/en/newsletter/).
