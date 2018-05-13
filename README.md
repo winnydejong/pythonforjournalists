@@ -8,7 +8,8 @@ TO DO:
 Python for Journalists
 ======================
 *Notebooks and files for the Python for Journalists course on [Learno.net](https://learno.net)*
-  
+![LEARNO.NET Course Python for Journalists](https://github.com/winnydejong/pythonforjournalists/blob/master/Learno_header.png "Python for Journalists - LEARNO.NET")
+
 * [What is Python anyway](#what-is-python-anyway)
 * [About the course](#about-the-course)
 * [Course Modules](#course-modules)
