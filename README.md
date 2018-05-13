@@ -4,8 +4,8 @@
 
 * [What is Python anyway](#what-is-python-anyway)
 * [About the course](#about-the-course)
-* [1 Getting started](#getting-started)
-* [Hands-on Modules](#hands-on-modules)
+* [Course Modules](#hands-on-modules)
+    * [1 Getting started](#getting-started)
     * [2 Clean data](#clean-data)
     * [3 Analyse data](#analyse-data)
     * [4 Scrape data](#scrape-data)
@@ -24,7 +24,7 @@ The course Python for Journalists is meant for journalists looking to learn the 
 This Python for Journalists course is meant for those who dabbled in Python, but somehow didn't persevere; and for those who can't wait to dive in head first... Though no programming knowledge is required, it helps if you know what a terminal or command prompt is.
 
 
-Getting Started
+Course Modules
 ===============
 
 ## 1 Set Up
@@ -36,8 +36,6 @@ This module revolves around installing the right tools on your laptop. To follow
 * Install the [Anaconda distribution](https://www.anaconda.com/download/#macos) to install **Python 3**, libraries Requests, Pandas, and BeautifulSoup, and Jupyter Notebooks all at once on your computer. 
   * Note: choose for the Anaconda installation that includes **Python 3**.
 
-Hands-on Modules
-==========
 
 ## 2 Clean data
 
