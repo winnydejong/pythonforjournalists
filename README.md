@@ -46,27 +46,23 @@ If you want to make sure you have a solid foundation to build up on, you might w
 
 In this second module we'll show you how to into your Python conda environment; how to start a Jupyter Notebook. Once that's out of the way, you'll learn how to import a CSV-file into your Jupyter Notebook, to get ready for some data cleaning. Among other things you'll learn how to search and replace values inside a column; how to change the datatype of a column; and how to extract data from a column to populate a new column. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'clean data'.
 
-### Analyse data
+### 3 Analyse data
 
 In this thirth module, you'll learn how to analyse data using the Pandas library. You'll learn how to explore your dataset, looking at summary statistics - count, median, mean, percentiles, standard deviation etc. - for each column. Next we'll look into how to sort, filter, sum and count values in columns. Finally you'll learn how to group data, creating (for those familiar with Excel) pivot tables, using the Pandas library. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'analyse data'. 
 
 
-### Scrape data
+### 4 Scrape data
 
 The final module revolves around scraping data using both the Requests and the BeautifulSoup libraries. Though in practice you'll likely first want to scrape data, to later clean and analyse those numbers, this module is last for training purposes. The modules on cleaning and analysing data introduced you to Python, Pandas and Jupyter Notebooks. Paving the way for some basic webscraping, including a for loop to collect data as efficient as possible. Finishing this module you should be able to write some basic webscrapers to collect data from the internet. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'scrape data'. 
 
 Learning More
 =================
 
-* XXXX [Python for Journalists]()
-* Code Academy []()
-
-### Online tutorials
 * Allen B. Downey's digital book [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
-* 
 * Swaroop's free online book [A Byte of Python](https://python.swaroopch.com/)
 * Dan Bader's [Python video tutorials on YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
 * Al Sweigart's [Automate the boring stuff with Python](https://automatetheboringstuff.com/) site
+* [Coding for Journalists](https://coding-for-journalists.readthedocs.io/en/latest/)
 
 ### Courses
 * CodeAcademy [Python lessons](https://www.codecademy.com/tracks/python)
@@ -83,5 +79,5 @@ About Us
 LEARNO.NET offers convenient, accesible and premium-quality online learning for media professionals. All courses are free - as in free beer - and accessible worldwide. LEARNO.NET is an initiative of the European Journalism Centre (EJC). The EJC is a non-profit international foundation with the mission to improve and strengthen journalism and the news media in the interest of a functioning democratic public sphere. The European Journalism Centre would like to thank the Dutch Ministry of Education, Culture and Science, Google, and the World Bank, for making LEARNO.NET possible.
 
 ### About Winny de Jong
-*(An official sounding bio... ;) )*  
+*(An official sounding bio...)*  
 Winny works as a data journalist for the Dutch national broadcast NOS. There she interviews data sets instead of people in order to find news before it is news. Next to that, she likes to pay it forward by blogging, talking and teaching about the importance of data literacy, how to develop ideas, and her data journalistic workflow. She has presented before for organizations like TEDx, Brussels News Summit, and several journalism colleges in both Belgium and The Netherlands. Winny grew up in Rotterdam, but now lives in Amersfoort, The Netherlands. Visit her online at [datajournalistiek.nl/en](https://datajournalistiek.nl/en) or subscribe to her [irregular data journalism newsletter](https://datajournalistiek.nl/en/newsletter/).
