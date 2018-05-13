@@ -2,11 +2,10 @@ Python for Journalists
 ======================
 *Notebooks and files for the Python for Journalists course on [Learno.net](https://learno.net)*
   
-  
 * [What is Python anyway](#what-is-python-anyway)
 * [About the course](#about-the-course)
 * [Course Modules](#course-modules)
-    * [1 Getting started](#getting-started)
+    * [1 Getting started](#set-up)
     * [2 Clean data](#clean-data)
     * [3 Analyse data](#analyse-data)
     * [4 Scrape data](#scrape-data)
@@ -37,7 +36,11 @@ This module revolves around installing the right tools on your laptop. To follow
 
 * Install the [Anaconda distribution](https://www.anaconda.com/download/#macos) to install **Python 3**, libraries Requests, Pandas, and BeautifulSoup, and Jupyter Notebooks all at once on your computer. 
   * Note: choose for the Anaconda installation that includes **Python 3**.
-
+  
+**Extra preparation:**
+If you want to make sure you have a solid foundation to build up on, you might want to learn about the Python syntax first. Here are some places where you can learn about different data types in Python, which might help before continuing with this course: (Since the following tutorials overlap, choosing one is highly recommended.)
+* Online beginner tutorials at [LearnPython.org](https://www.learnpython.org/)
+* Digital book [Python for you and me](https://pymbook.readthedocs.io/en/py3/)
 
 ### 2 Clean data
 
@@ -52,14 +55,26 @@ In this thirth module, you'll learn how to analyse data using the Pandas library
 
 The final module revolves around scraping data using both the Requests and the BeautifulSoup libraries. Though in practice you'll likely first want to scrape data, to later clean and analyse those numbers, this module is last for training purposes. The modules on cleaning and analysing data introduced you to Python, Pandas and Jupyter Notebooks. Paving the way for some basic webscraping, including a for loop to collect data as efficient as possible. Finishing this module you should be able to write some basic webscrapers to collect data from the internet. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'scrape data'. 
 
-Learning More...
+Learning More
 =================
 
-* XXX's [Learn Python the Hard Way]()
 * XXXX [Python for Journalists]()
 * Code Academy []()
-* Data Camp []()
+
+### Online tutorials
+* Allen B. Downey's digital book [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
 * 
+* Swaroop's free online book [A Byte of Python](https://python.swaroopch.com/)
+* Dan Bader's [Python video tutorials on YouTube](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA)
+* Al Sweigart's [Automate the boring stuff with Python](https://automatetheboringstuff.com/) site
+
+### Courses
+* CodeAcademy [Python lessons](https://www.codecademy.com/tracks/python)
+* Data Camp [Python Courses](https://www.datacamp.com/courses/tech:python)
+* Zed Shaw's [Learn Python the Hard Way](https://learnpythonthehardway.org/)
+* EDx's Course [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
+* Coursera [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
+* Coursera [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
 
 About Us
 ========
