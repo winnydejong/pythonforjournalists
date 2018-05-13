@@ -28,6 +28,8 @@ This Python for Journalists course is meant for those who dabbled in Python, but
 Course Modules
 ===============
 
+For all modules except module 1 Set up, there is a Jupyter Notebook available to follow along during the course. Each notebook contains exercises and explanations. Next to these notebooks, you'll find cheatsheets with the used Python commands for modules 2, 3 and 4. Happy Pythoning!
+
 ### 1 Set Up
 
 This module revolves around installing the right tools on your laptop. To follow along in the coming modules, you'll need Python 3, and several Python libraries like Requests, Pandas and BeautifulSoup installed. Jupyter Notebooks come highly recommended. It's recommended that you install all of this software in one go, using the [Anaconda distribution](https://anaconda.org/). This first module does not include a Jupyter Notebook.
