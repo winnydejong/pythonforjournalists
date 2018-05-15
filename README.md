@@ -12,10 +12,10 @@ Python for Journalists
 * [What is Python anyway](#what-is-python-anyway)
 * [About the course](#about-the-course)
 * [Course Modules](#course-modules)
-    * [1 Getting started](#set-up)
-    * [2 Clean data](#clean-data)
-    * [3 Analyse data](#analyse-data)
-    * [4 Scrape data](#scrape-data)
+    * 1 Getting started
+    * 2 Clean data
+    * 3 Analyse data
+    * 4 Scrape data
 * [Learning More, Reference And Tools](#learning-more-reference-and-tools)
 * [About Us](#about-us)
 
@@ -29,7 +29,7 @@ About the Course
 ==================
 The course Python for Journalists is meant for journalists looking to learn the most common uses of Python for data journalism. During four modules the course teaches you how to set up Python and all Python-related tools on your own computer. Next you'll learn how to clean up messy datasets using the Pandas library. In the thirth module you'll learn how to analyse data, again using the Pandas library. In the fourth and final module you'll learn how to automatically download data from the web, by using both the Beautiful Soup and Requests libraries to dabbling in webscraping. 
 
-This Python for Journalists course is meant for those who dabbled in Python, but somehow didn't persevere; and for those who can't wait to dive in head first... Though no programming knowledge is required, it helps if you know what a terminal or command prompt is.
+This Python for Journalists course is meant for those who dabbled in Python, but somehow didn't persevere; and for those who can't wait to dive in head first... Though no programming knowledge is required, it helps if you know what a terminal or command prompt is and if you are familiar with Excel.
 
 
 Course Modules
@@ -44,7 +44,7 @@ This module revolves around installing the right tools on your laptop. To follow
 **On your computer:**
 
 * Install the [Anaconda distribution](https://www.anaconda.com/download/#macos) to install **Python 3**, libraries Requests, Pandas, and BeautifulSoup, and Jupyter Notebooks all at once on your computer. 
-  * Note: choose for the Anaconda installation that includes **Python 3**.
+  * Note: choose for the Anaconda installation that includes **Python 3**, at the time of writing that would be Python 3.6.
   
 **Extra preparation:**
 If you want to make sure you have a solid foundation to build up on, you might want to learn about the Python syntax first. Here are some places where you can learn about different data types in Python, which might help before continuing with this course: (Since the following tutorials overlap, choosing one is highly recommended.)
@@ -85,7 +85,7 @@ About Us
 ========
 
 ### About LEARNO.NET 
-LEARNO.NET offers convenient, accesible and premium-quality online learning for media professionals. All courses are free - as in free beer - and accessible worldwide. LEARNO.NET is an initiative of the European Journalism Centre (EJC). The EJC is a non-profit international foundation with the mission to improve and strengthen journalism and the news media in the interest of a functioning democratic public sphere. The European Journalism Centre would like to thank the Dutch Ministry of Education, Culture and Science, Google, and the World Bank, for making LEARNO.NET possible.
+LEARNO.NET offers convenient, premium-quality online learning for media professionals. All courses are free - as in free beer - and accessible worldwide. LEARNO.NET is an initiative of the European Journalism Centre (EJC). The EJC is a non-profit international foundation with the mission to improve and strengthen journalism and the news media in the interest of a functioning democratic public sphere. The European Journalism Centre would like to thank the Dutch Ministry of Education, Culture and Science, Google, and the World Bank, for making LEARNO.NET possible.
 
 ### About Winny de Jong
 *(An official sounding bio...)*  
