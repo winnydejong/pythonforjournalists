@@ -27,7 +27,7 @@ Python is a programming language for general-purpose programming. It's popular a
 
 About the Course
 ==================
-The course Python for Journalists is meant for journalists looking to learn the most common uses of Python for data journalism. During four modules the course teaches you how to set up Python and all Python-related tools on your own computer. Next you'll learn how to clean up messy datasets using the Pandas library. In the thirth module you'll learn how to analyse data, again using the Pandas library. In the fourth and final module you'll learn how to automatically download data from the web, by using both the Beautiful Soup and Requests libraries to dabbling in webscraping. 
+The course Python for Journalists is meant for journalists looking to learn the most common uses of Python for data journalism. During four modules the course teaches you how to set up Python and all Python-related tools on your own computer. Next you'll learn how to clean up messy datasets using the Pandas library. In the third module you'll learn how to analyse data, again using the Pandas library. In the fourth and final module you'll learn how to automatically download data from the web, by using both the Beautiful Soup and Requests libraries to dabbling in webscraping. 
 
 This Python for Journalists course is meant for those who dabbled in Python, but somehow didn't persevere; and for those who can't wait to dive in head first... Though no programming knowledge is required, it helps if you know what a terminal or command prompt is and if you are familiar with Excel.
 
