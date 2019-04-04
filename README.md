@@ -1,10 +1,3 @@
-TO DO:
-======
-* Add cheatsheet with used commands for module 2, 3 and 4
-* Check Jupyter Notebooks for module 2, 3, and 4
-* Add link to Learno.net Course once published
-* Check spelling :) 
-
 Python for Journalists
 ======================
 *Notebooks and files for the Python for Journalists course on [Learno.net](https://learno.net)*
