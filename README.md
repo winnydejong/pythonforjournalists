@@ -1,6 +1,6 @@
 Python for Journalists
 ======================
-*Notebooks and files for the Python for Journalists course on [Learno.net](https://learno.net)*
+*Notebooks and files for the Python for Journalists course on [Datajournalism.com](https://datajournalism.com/watch/python-for-journalists)*
 
 * [What is Python anyway](#what-is-python-anyway)
 * [About the course](#about-the-course)
@@ -46,7 +46,7 @@ If you want to make sure you have a solid foundation to build up on, you might w
 
 ### 2 Clean data
 
-In this second module we'll show you how to into your Python conda environment; how to start a Jupyter Notebook. Once that's out of the way, you'll learn how to import a CSV-file into your Jupyter Notebook, to get ready for some data cleaning. Among other things you'll learn how to search and replace values inside a column; how to change the datatype of a column; and how to extract data from a column to populate a new column. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'clean data'.
+In this second module we'll show you how to get into your Python conda environment, and how to start a Jupyter Notebook. Once that's out of the way, you'll learn how to import a CSV-file into your Jupyter Notebook, to get ready for some data cleaning. Among other things you'll learn how to search and replace values inside a column; how to change the datatype of a column; and how to extract data from a column to populate a new column. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'clean data'.
 
 ### 3 Analyse data
 
@@ -81,4 +81,4 @@ About Us
 The European Journalism Center believes that the use of data in journalism is a cornerstone of building resilience in any newsroom. After 10 years of experience running data journalism programmes they've created [DataJournalism.com](https://datajournalism.com). The site provides data journalists with free resources, materials, online video courses and community forums. Once you sign in, you can enroll for free into one of our premium online courses or discuss with the community in our forums. Whether you are new to data journalism or deeply familiar with it, membership will expose you to like-minded data journalists and give you a free space to learn or improve your data skills.
 
 ### About Winny de Jong
-Winny works as a data journalist for the Dutch national broadcast [NOS](https://nos.nl). There she interviews data sets instead of people in order to find news before it is news. Winny usually speaks about the importance of data literacy, how to develop ideas, and her data journalistic workflow. She has presented before for organizations like TEDx, Brussels News Summit, and several journalism colleges. Every Sunday she shares the best of the data journalism web in her [data journalism newsletter](https://datajournalistiek.nl/en/newsletter/). Visit her online at [winnymedia.nl](https://winnymedia.nl) or [her data blog](https://datajournalistiek.nl/en). 
+Winny works as a data journalist for the Dutch national news broadcast [NOS](https://nos.nl). There she interviews datasets instead of people in order to find news before it is news. Winny usually speaks about the importance of data literacy, how to develop ideas, and her data journalistic workflow. She has presented before for organizations like TEDx, Brussels News Summit, and several journalism colleges. Every Sunday she shares the best of the data journalism web in her [data journalism newsletter](https://datajournalistiek.nl/en/newsletter/). Visit her online at [winnymedia.nl](https://winnymedia.nl) or [her data blog](https://datajournalistiek.nl/en). 
