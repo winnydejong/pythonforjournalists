@@ -28,7 +28,7 @@ This Python for Journalists course is meant for those who dabbled in Python, but
 Course Modules
 ===============
 
-For all modules except module 1 Set up, there is a Jupyter Notebook available to follow along during the course. Each notebook contains exercises and explanations. Next to these notebooks, you'll find cheatsheets with the used Python commands for modules 2, 3 and 4. Happy Pythoning!
+For all modules except module 1 Set up, there is a Jupyter Notebook available to follow along during the course. Each notebook contains exercises and explanations. Happy Pythoning!
 
 ### 1 Set Up
 
@@ -46,16 +46,16 @@ If you want to make sure you have a solid foundation to build up on, you might w
 
 ### 2 Clean data
 
-In this second module we'll show you how to get into your Python conda environment, and how to start a Jupyter Notebook. Once that's out of the way, you'll learn how to import a CSV-file into your Jupyter Notebook, to get ready for some data cleaning. Among other things you'll learn how to search and replace values inside a column; how to change the datatype of a column; and how to extract data from a column to populate a new column. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'clean data'.
+In this second module we'll show you how to get into your Python conda environment, and how to start a Jupyter Notebook. Once that's out of the way, you'll learn how to import a CSV-file into your Jupyter Notebook, to get ready for some data cleaning. Among other things you'll learn how to search and replace values inside a column; how to change the datatype of a column; and how to extract data from a column to populate a new column. This module includes two Jupyter Notebooks: one empty and another one completed - all named 'clean data'.
 
 ### 3 Analyse data
 
-In this third module, you'll learn how to analyse data using the Pandas library. You'll learn how to explore your dataset, looking at summary statistics - count, median, mean, percentiles, standard deviation etc. - for each column. Next we'll look into how to sort, filter, sum and count values in columns. Finally you'll learn how to group data, creating (for those familiar with Excel) pivot tables, using the Pandas library. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'analyse data'. 
+In this third module, you'll learn how to analyse data using the Pandas library. You'll learn how to explore your dataset, looking at summary statistics - count, median, mean, percentiles, standard deviation etc. - for each column. Next we'll look into how to sort, filter, sum and count values in columns. Finally you'll learn how to group data, creating (for those familiar with Excel) pivot tables, using the Pandas library. This module includes two Jupyter Notebooks: one empty and another one completed - all named 'analyse data'. 
 
 
 ### 4 Scrape data
 
-The final module revolves around scraping data using both the Requests and the BeautifulSoup libraries. Though in practice you'll likely first want to scrape data, to later clean and analyse those numbers, this module is last for training purposes. The modules on cleaning and analysing data introduced you to Python, Pandas and Jupyter Notebooks. Paving the way for some basic webscraping, including a for loop to collect data as efficient as possible. Finishing this module you should be able to write some basic webscrapers to collect data from the internet. This module includes both a Jupyter Notebook (empty and completed) and a cheatsheet - all named 'scrape data'. 
+The final module revolves around scraping data using both the Requests and the BeautifulSoup libraries. Though in practice you'll likely first want to scrape data, to later clean and analyse those numbers, this module is last for training purposes. The modules on cleaning and analysing data introduced you to Python, Pandas and Jupyter Notebooks. Paving the way for some basic webscraping, including a for loop to collect data as efficient as possible. Finishing this module you should be able to write some basic webscrapers to collect data from the internet. This module includes two Jupyter Notebooks: one empty and another one completed - all named 'scrape data'. 
 
 Learning More
 =================
@@ -82,4 +82,4 @@ About Us
 The European Journalism Center believes that the use of data in journalism is a cornerstone of building resilience in any newsroom. After 10 years of experience running data journalism programmes they've created [DataJournalism.com](https://datajournalism.com). The site provides data journalists with free resources, materials, online video courses and community forums. Once you sign in, you can enroll for free into one of our premium online courses or discuss with the community in our forums. Whether you are new to data journalism or deeply familiar with it, membership will expose you to like-minded data journalists and give you a free space to learn or improve your data skills.
 
 ### About Winny de Jong
-Winny works as a data journalist for the Dutch national news broadcast [NOS](https://nos.nl). There she interviews datasets instead of people in order to find news before it is news. Winny usually speaks about the importance of data literacy, how to develop ideas, and her data journalistic workflow. She has presented before for organizations like TEDx, Brussels News Summit, and several journalism colleges. Every Sunday she shares the best of the data journalism web in her [data journalism newsletter](https://datajournalistiek.nl/en/newsletter/). Visit her online at [winnymedia.nl](https://winnymedia.nl) or [her data blog](https://datajournalistiek.nl/en). 
+Winny works as a data journalist for the Dutch national news broadcast [NOS](https://nos.nl). There she interviews datasets instead of people trying to find news before it is news. Winny usually speaks about the importance of data literacy, how to develop ideas, and her data journalistic workflow. She has presented before for organizations like TEDx, Brussels News Summit, DataHarvest+  and multiple journalism colleges. Every Sunday she shares the best of the data journalism web in her [data journalism newsletter](https://datajournalistiek.nl/en/newsletter/). Visit her online at [winnymedia.nl](https://winnymedia.nl) or at [her data blog](https://datajournalistiek.nl/en). 
