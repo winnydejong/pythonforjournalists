@@ -67,12 +67,13 @@ Learning More
 * [Coding for Journalists](https://coding-for-journalists.readthedocs.io/en/latest/)
 
 ### Courses
-* CodeAcademy [Python lessons](https://www.codecademy.com/tracks/python)
+* [Your First Python Notebook](http://www.firstpythonnotebook.org/index.html): a step-by-step guide to analyzing data with Python and the Jupyter Notebook.
 * Data Camp [Python Courses](https://www.datacamp.com/courses/tech:python)
 * Zed Shaw's [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 * EDx's Course [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 * Coursera [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 * Coursera [Applied Data Science with Python Specialization](https://www.coursera.org/specializations/data-science-python)
+
 
 About Us
 ========
