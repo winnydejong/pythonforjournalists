@@ -1,0 +1,84 @@
+,plantNamedocketNumber,licenseNumber,reactorType,location,OwnerOperator,NRCRegion
+1,Arkansas Nuclear 105000313,DPR-51,PWR,"6 miles WNW of Russellville,  AR","Entergy Nuclear Operations, Inc. ",4
+2,Arkansas Nuclear 205000368,NPF-6,PWR,"6 miles WNW of Russellville,  AR","Entergy Nuclear Operations, Inc. ",4
+3,Beaver Valley 105000334,DPR-66,PWR,"17 miles W of McCandless,  PA",FirstEnergy Nuclear Operating Co. ,1
+4,Beaver Valley 205000412,NPF-73,PWR,"17 miles W of McCandless,  PA",FirstEnergy Nuclear Operating Co. ,1
+5,Braidwood 105000456,NPF-72,PWR,"20 miles SSW of Joliet,  IL","Exelon Generation Co., LLC ",3
+6,Braidwood 205000457,NPF-77,PWR,"20 miles SSW of Joliet,  IL","Exelon Generation Co., LLC ",3
+7,Browns Ferry 105000259,DPR-33,BWR,"32 miles W of Huntsville,  AL",Tennessee Valley Authority ,2
+8,Browns Ferry 205000260,DPR-52,BWR,"32 miles W of Huntsville,  AL",Tennessee Valley Authority ,2
+9,Browns Ferry 305000296,DPR-68,BWR,"32 miles W of Huntsville,  AL",Tennessee Valley Authority ,2
+10,Brunswick 105000325,DPR-71,BWR,"30 miles S of Wilmington,  NC","Duke Energy Progress, LLC ",2
+11,Brunswick 205000324,DPR-62,BWR,"30 miles S of Wilmington,  NC","Duke Energy Progress, LLC",2
+12,Byron 105000454,NPF-37,PWR,"17 miles SW of Rockford,  IL","Exelon Generation Co., LLC ",3
+13,Byron 205000455,NPF-66,PWR,"17 miles SW of Rockford,  IL","Exelon Generation Co., LLC ",3
+14,Callaway05000483,NPF-30,PWR,"25 miles ENE of Jefferson  City, MO",Ameren UE ,4
+15,Calvert Cliffs 105000317,DPR-53,PWR,"40 miles S of Annapolis,  MD",Constellation Energy,1
+16,Calvert Cliffs 205000318,DPR-69,PWR,"40 miles S of Annapolis,  MD",Constellation Energy,1
+17,Catawba 105000413,NPF-35,PWR,"18 miles S of Charlotte, NC","Duke Energy Carolinas, LLC ",2
+18,Catawba 205000414,NPF-52,PWR,"18 miles S of Charlotte, NC","Duke Energy Carolinas, LLC",2
+19,Clinton05000461,NPF-62,BWR,"23 miles SSE of  Bloomington, IL","Exelon Generation Co., LLC",3
+20,Columbia Generating Station05000397,NPF-21,BWR,"20 miles NNE of Pasco, WA",Energy Northwest ,4
+21,Comanche Peak 105000445,NPF-87,PWR,"40 miles SW of Fort Worth,  TX",TEX Operations Company LLC,4
+22,Comanche Peak 205000446,NPF-89,PWR,"40 miles SW of Fort Worth,  TX",TEX Operations Company LLC,4
+23,Cooper05000298,DPR-46,BWR,"23 miles S of Nebraska City,  NE",Nebraska Public Power District ,4
+24,D.C. Cook 105000315,DPR-58,PWR,"13 miles S of Benton Harbor,  MI",Indiana/Michigan Power Co. ,3
+25,D.C. Cook 2 05000316,DPR-74,PWR,"13 miles S of Benton Harbor,  MI",Indiana/Michigan Power Co. ,3
+26,Davis-Besse05000346,NPF-3,PWR,"21 miles ESE of Toledo,  OH",FirstEnergy Nuclear Operating Co. ,3
+27,Diablo Canyon 105000275,DPR-80,PWR,"12 miles WSW of San Luis Obispo,  CA",Pacific Gas & Electric Co. ,4
+28,Diablo Canyon 205000323,DPR-82,PWR,"12 miles WSW of San Luis Obispo,  CA",Pacific Gas & Electric Co. ,4
+29,Dresden 205000237,DPR-19,BWR,"25 miles SW of Joliet, IL","Exelon Generation Co., LLC ",3
+30,Dresden 305000249,DPR-25,BWR,"25 miles SW of Joliet, IL","Exelon Generation Co., LLC ",3
+31,Duane Arnold05000331,DPR-49,BWR,"8 miles NW of Cedar Rapids,  IA","NextEra Energy Duane Arnold, LLC ",3
+32,Farley 105000348,NPF-2,PWR,"18 miles E of Dothan,  AL",Southern Nuclear Operating Co. ,2
+33,Farley 205000364,NPF-8,PWR,"18 miles E of Dothan,  AL",Southern Nuclear Operating Co.,2
+34,Fermi 205000341,NPF-43,BWR,"25 miles NE of Toledo,  OH",DTE Electric Company,3
+35,FitzPatrick05000333,DPR-59,BWR,"6 miles NE of Oswego,  NY","Exelon FitzPatrick, LLC/Exelon Generation Company, LLC",1
+36,Ginna05000244,DPR-18,PWR,"20 miles NE of Rochester,  NY",Constellation Energy,1
+37,Grand Gulf 105000416,NPF-29,BWR,"20 miles S of Vicksburg,  MS","Entergy Nuclear Operations, Inc.",4
+38,Hatch 105000321,DPR-57,BWR,"20 miles S of Vidalia, GA","Southern Nuclear Operating Co., Inc. ",2
+39,Hatch 205000366,NPF-5,BWR,"20 miles S of Vidalia, GA","Southern Nuclear Operating Co., Inc. ",2
+40,Hope Creek 105000354,NPF-57,BWR,"18 miles SE of Wilmington,  DE","PSEG Nuclear, LLC",1
+41,Indian Point 305000286,DPR-64,PWR,"24 miles N of New York City,  NY","Entergy Nuclear Operations, Inc.",1
+42,La Salle 105000373,NPF-11,BWR,"11 miles SE of Ottawa,  IL","Exelon Generation Co., LLC ",3
+43,La Salle 205000374,NPF-18,BWR,"11 miles SE of Ottawa,  IL","Exelon Generation Co., LLC ",3
+44,Limerick 105000352,NPF-39,BWR,"21 miles NW of Philadelphia,  PA","Exelon Generation Co., LLC ",1
+45,Limerick 205000353,NPF-85,BWR,"21 miles NW of Philadelphia,  PA","Exelon Generation Co., LLC ",1
+46,McGuire 105000369,NPF-9,PWR,"17 miles N of Charlotte,  NC","Duke Energy Carolinas, LLC",2
+47,McGuire 205000370,NPF-17,PWR,"17 miles N of Charlotte,  NC","Duke Energy Carolinas, LLC",2
+48,Millstone 205000336,DPR-65,PWR,"3.2 miles WSW of New London,  CT",Dominion Generation ,1
+49,Millstone 305000423,NPF-49,PWR,"3.2 miles WSW of New London,  CT",Dominion Generation ,1
+50,Monticello05000263,DPR-22,BWR,"35 miles NW of Minneapolis,  MN",Northern States Power Company – Minnesota,3
+51,Nine Mile Point 105000220,DPR-63,BWR,"6 miles NE of Oswego,  NY",Constellation Energy,1
+52,Nine Mile Point 205000410,NPF-69,BWR,"6 miles NE of Oswego,  NY",Constellation Energy,1
+53,North Anna 105000338,NPF-4,PWR,"40 miles NW of Richmond,  VA",Dominion Generation,2
+54,North Anna 205000339,NPF-7,PWR,"40 miles NW of Richmond,  VA",Dominion Generation,2
+55,Oconee 105000269,DPR-38,PWR,"30 miles W of Greenville,  SC","Duke Energy Carolinas, LLC",2
+56,Oconee 205000270,DPR-47,PWR,"30 miles W of Greenville,  SC","Duke Energy Carolinas, LLC",2
+57,Oconee 305000287,DPR-55,PWR,"30 miles W of Greenville,  SC","Duke Energy Carolinas, LLC",2
+58,Palisades05000255,DPR-20,PWR,"5 miles S of South Haven,  MI","Entergy Nuclear Operations, Inc.",3
+59,Palo Verde 105000528,NPF-41,PWR,"50 miles W of Phoenix,  AZ",Arizona Public Service Co. ,4
+60,Palo Verde 205000529,NPF-51,PWR,"50 miles W of Phoenix,  AZ",Arizona Public Service Co. ,4
+61,Palo Verde 305000530,NPF-74,PWR,"50 miles W of Phoenix,  AZ",Arizona Public Service Co. ,4
+62,Peach Bottom 205000277,DPR-44,BWR,"17.9 miles S of Lancaster,  PA","Exelon Generation Co., LLC ",1
+63,Peach Bottom 305000278,DPR-56,BWR,"17.9 miles S of Lancaster,  PA","Exelon Generation Co., LLC ",1
+64,Perry 105000440,NPF-58,BWR,"35 miles NE of Cleveland,  OH",FirstEnergy Nuclear Operating Co. ,3
+65,Point Beach 105000266,DPR-24,PWR,"13 miles NNW of Manitowoc,  WI","NextEra Energy Point Beach, LLC",3
+66,Point Beach 205000301,DPR-27,PWR,"13 miles NNW of Manitowoc,  WI","NextEra Energy Point Beach, LLC",3
+67,Prairie Island 105000282,DPR-42,PWR,"28 miles SE of Minneapolis,  MN",Northern States Power Company – Minnesota ,3
+68,Prairie Island 205000306,DPR-60,PWR,"28 miles SE of Minneapolis,  MN",Northern States Power Company – Minnesota ,3
+69,Quad Cities 105000254,DPR-29,BWR,"20 miles NE of Moline,  IL","Exelon Generation Co., LLC ",3
+70,Quad Cities 205000265,DPR-30,BWR,"20 miles NE of Moline,  IL","Exelon Generation Co., LLC ",3
+71,River Bend 105000458,NPF-47,BWR,"24 miles NNW of Baton Rouge,  LA","Entergy Nuclear Operations, Inc.",4
+72,Robinson 205000261,DPR-23,PWR,"26 miles NW of Florence,  SC","Duke Energy Progress, LLC ",2
+73,Saint Lucie 105000335,DPR-67,PWR,"10 miles SE of Ft. Pierce,  FL",Florida Power & Light Co. ,2
+74,Saint Lucie 205000389,NPF-16,PWR,"10 miles SE of Ft. Pierce,  FL",Florida Power & Light Co. ,2
+75,Salem 105000272,DPR-70,PWR,"18 miles S of Wilmington,  DE","PSEG Nuclear, LLC",1
+76,Salem 205000311,DPR-75,PWR,"18 miles S of Wilmington,  DE","PSEG Nuclear, LLC",1
+77,Seabrook 105000443,NPF-86,PWR,"13 miles S of Portsmouth,  NH","NextEra Energy Seabrook, LLC",1
+78,Sequoyah 105000327,DPR-77,PWR,"16 miles NE of Chattanooga,  TN",Tennessee Valley Authority ,2
+79,Sequoyah 205000328,DPR-79,PWR,"16 miles NE of Chattanooga,  TN",Tennessee Valley Authority ,2
+80,Shearon Harris 105000400,NPF-63,PWR,"20 miles SW of Raleigh,  NC","Duke Energy Progress, LLC",2
+81,South Texas 105000498,NPF-76,PWR,"90 miles SW of Houston, TX",STP Nuclear Operating Co. ,4
+82,South Texas 205000499,NPF-80,PWR,"90 miles SW of Houston, TX",STP Nuclear Operating Co. ,4
+83,Summer05000395,NPF-12,PWR,"26 miles NW of Columbia,  SC",South Carolina Electric & Gas Co. ,2
