@@ -52,6 +52,9 @@ In this second module we'll show you how to get into your Python conda environme
 
 In this third module, you'll learn how to analyse data using the Pandas library. You'll learn how to explore your dataset, looking at summary statistics - count, median, mean, percentiles, standard deviation etc. - for each column. Next we'll look into how to sort, filter, sum and count values in columns. Finally you'll learn how to group data, creating (for those familiar with Excel) pivot tables, using the Pandas library. This module includes two Jupyter Notebooks: one empty and another one completed - all named 'analyse data'. 
 
+**Extra exercises:**
+If you want to make sure you have fully grasped this module, you can take on the extra notebook that contains some exercises. Since this is a later add on to the course, there is no video to accompany this notebook. However, you should be able to pull through without video. :) Off course there are two extra notebooks: one completed, and one for you to work in. 
+
 
 ### 4 Scrape data
 
